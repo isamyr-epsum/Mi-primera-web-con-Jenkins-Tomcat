@@ -10,6 +10,8 @@
         <%=
             System.out.println("Línea hecha con Java");
         %>
+        <h1>Esto es contenido dinámico con html</h1>
     </center>    
 </body>
+
 </html>
