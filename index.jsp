@@ -11,7 +11,9 @@
             System.out.println("Línea hecha con Java");
         %>
         <h1>Esto es contenido dinámico con html</h1>
+        <h2>Otro contenido dinámico</h2>
     </center>    
 </body>
 
 </html>
+
